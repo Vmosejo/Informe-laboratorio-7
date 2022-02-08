@@ -10,6 +10,7 @@
 ## 2. MARCO TEÓRICO
 
 ![Mapa conceptual](https://user-images.githubusercontent.com/93681159/152893763-9052dac3-110a-4b0f-83c3-e4e663ca8201.jpeg)
+![Mapas mentales con líneas](https://user-images.githubusercontent.com/93681159/152896875-119de7f9-6886-4e42-a66f-c79c088d85cb.jpeg)
 
 ## 3. PROCEDIMIENTO
 
