@@ -15,11 +15,17 @@
 ## 3. PROCEDIMIENTO
 
 ## 4. TABLAS Y RESPUESTA A INTERROGANTES 
-### 4.1 Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
+### TABLAS.
+#### 4.1 Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 ### CIRCUITO 1
 ![CIRCUITO 1](https://user-images.githubusercontent.com/93893919/152895882-5edc9cb9-2ab9-41e4-a6d7-6e898bd94244.png)
 ### CIRCUITO 2
 ![CIRCUITO 2](https://user-images.githubusercontent.com/93893919/152895893-408e0956-1f04-4462-ac86-5fa246b31369.png)
+### PREGUNTAS.
+#### 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+#### 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+#### 3.- ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+#### 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 ## 5. VIDEO
 
 ## 6. CONCLUSIONES
