@@ -23,9 +23,13 @@
 ![CIRCUITO 2](https://user-images.githubusercontent.com/93893919/152895893-408e0956-1f04-4462-ac86-5fa246b31369.png)
 ### PREGUNTAS.
 #### 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+* Cuando la bobina y el capacitador se encuentran en corriente continua es decir 0 Hz estos companentes se pueden interpretar como un cable en el circuito ya que no aportan al circuito.
 #### 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
-#### 3.- ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+* El capacitor representa como un elemento pasivo. Al existir una variación de la corriente en un circuito de corriente alterna es puede conocer los valores que tomaran las corrientes y la caída de tensión por medio de las funciones que describan a estas variables dentro del ntervalo de tiempo definido.
+#### 3.- ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?}
+* En el voltaje Vo dentro de lo circuitos analizados varía en función de la impedancia, es decir su menor o mayor al valor total de impedancia
 #### 4.- ¿Qué son los valores eficaces de voltaje y corriente?
+* Valores de voltaje y corriente son funciones oscilatorias descrita en función de seno y el coseno representadas por su amplitud y frecuencia, dichos valores aumentan al calcular la potencia.
 ## 5. VIDEO
 
 ## 6. CONCLUSIONES
