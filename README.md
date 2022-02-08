@@ -33,6 +33,7 @@
 ## 5. VIDEO
 
 ## 6. CONCLUSIONES
+* El simulador dcaclab nos permite simular como se comportan los voltajes de una manera gráfica y acertada. 
  
 ## 7. BIBLIOGRAFÍA 
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson.
