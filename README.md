@@ -122,6 +122,56 @@ a. Utilice el osciloscopio para observar el voltaje variando la frecuencia entre
 
 b. Utilice un multímetro para medir el voltaje variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
 
+* Para 0 Hz
+
+![image](https://user-images.githubusercontent.com/93666408/152934866-69300e6d-b80e-4776-8a88-a9a04f2e189d.png)
+
+* Para 10 Hz
+
+![image](https://user-images.githubusercontent.com/93666408/152934912-41368940-338f-4986-aa3e-d792a62c0a1d.png)
+
+* Para 50 Hz
+
+![image](https://user-images.githubusercontent.com/93666408/152934953-83f800b9-5ad7-4068-aec8-1b35a39ac9e5.png)
+
+* Para 100 Hz
+
+![image](https://user-images.githubusercontent.com/93666408/152935004-646e6a9c-88b2-4b70-9021-e2139dcb2cca.png)
+
+* Para 500 Hz
+
+![image](https://user-images.githubusercontent.com/93666408/152935086-066c2ede-533b-40cd-ac0a-faa45500247c.png)
+
+* Para 1000 Hz
+
+![image](https://user-images.githubusercontent.com/93666408/152935151-bfdcb3c1-e539-4a79-b83c-04a053319340.png)
+
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+
+* Para 0 Hz
+
+![image](https://user-images.githubusercontent.com/93666408/152935845-fb4fe181-2e36-4876-962e-d4d59e1cade4.png)
+
+* Para 10 Hz
+
+![image](https://user-images.githubusercontent.com/93666408/152935885-20a9f172-77bc-434e-9c2f-93f30360191b.png)
+
+* Para 50 Hz
+
+![image](https://user-images.githubusercontent.com/93666408/152935992-fdf9315f-f17f-4540-bfe4-46d1829a75f1.png)
+
+* Para 100 Hz
+
+![image](https://user-images.githubusercontent.com/93666408/152936067-596c6ca2-f63c-4a0c-b7b8-19d426ac84db.png)
+
+* Para 500 Hz
+
+![image](https://user-images.githubusercontent.com/93666408/152936163-473d959a-4dfc-4817-8a84-c0db4bbdc2fd.png)
+
+* Para 1000 Hz
+
+![image](https://user-images.githubusercontent.com/93666408/152936236-522fea13-1120-4b9e-9964-3158780ada2f.png)
+
 
 ## 4. TABLAS Y RESPUESTA A INTERROGANTES 
 ### TABLAS.
