@@ -15,7 +15,47 @@
 ![Mapas mentales con líneas](https://user-images.githubusercontent.com/93681159/152896875-119de7f9-6886-4e42-a66f-c79c088d85cb.jpeg)
 
 ## 3. PROCEDIMIENTO
+1.- Construya en el protoboard el circuito mostrado en la Figura 1.
 
+a. Utilice el osciloscopio para observar el voltaje variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+b. Utilice un multímetro para medir el voltaje variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+![image](https://user-images.githubusercontent.com/93666408/152920034-607ceaa4-074b-40ea-b9d3-0df48d362dc4.png)
+
+* Se construye el circuito mostrado en la figura 1.
+![image](https://user-images.githubusercontent.com/93666408/152920184-6a40c53a-afcf-4e5c-a6f9-31f135d826e8.png)
+
+a. Utilice el osciloscopio para observar el voltaje variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.
+* Para 0 Hz
+![image](https://user-images.githubusercontent.com/93666408/152920368-a8822b47-dfef-429d-98bc-af54138c2235.png)
+
+* Para 10 Hz
+![image](https://user-images.githubusercontent.com/93666408/152920387-fc89ee4d-3d1b-4bc7-b135-dfd9ad40d58e.png)
+
+* Para 50 Hz
+![image](https://user-images.githubusercontent.com/93666408/152920429-4068665d-c923-4e34-9b04-6ff442c51a1b.png)
+
+* Para 100 Hz
+![image](https://user-images.githubusercontent.com/93666408/152920497-6eaeba21-90e6-4363-97dd-27f8fff10a51.png)
+
+* Para 500 Hz
+![image](https://user-images.githubusercontent.com/93666408/152920727-0029c6de-4c69-4efb-aa5d-2c7576c51935.png)
+
+* Para 1000 Hz
+![image](https://user-images.githubusercontent.com/93666408/152921396-05bfa40f-72c1-4fa0-964b-b40d8490f1fa.png)
+
+b. Utilice un multímetro para medir el voltaje variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.
+* Para 0 Hz
+![image](https://user-images.githubusercontent.com/93666408/152921644-daacb370-9cfd-4eb6-b421-d24e00d04759.png)
+
+* Para 10 Hz
+
+* Para 50 Hz
+
+* Para 100 Hz
+* Para 500 Hz
+* Para 1000 Hz
 ## 4. TABLAS Y RESPUESTA A INTERROGANTES 
 ### TABLAS.
 #### 4.1 Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
