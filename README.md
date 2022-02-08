@@ -33,7 +33,7 @@
 #### 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 * Valores de voltaje y corriente son funciones oscilatorias descrita en función de seno y el coseno representadas por su amplitud y frecuencia, dichos valores aumentan al calcular la potencia.
 ## 5. VIDEO
-
+https://www.youtube.com/watch?v=cOOuS5oycww
 ## 6. CONCLUSIONES
 * El simulador dcaclab nos permite simular como se comportan los voltajes de una manera gráfica y acertada. 
  
