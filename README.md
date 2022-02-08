@@ -28,7 +28,7 @@
 * El capacitor representa como un elemento pasivo. Al existir una variación de la corriente en un circuito de corriente alterna es puede conocer los valores que tomaran las corrientes y la caída de tensión por medio de las funciones que describan a estas variables dentro del ntervalo de tiempo definido.
 #### 3.- ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?}
 * En el voltaje Vo dentro de lo circuitos analizados varía en función de la impedancia, es decir su menor o mayor al valor total de impedancia.
-* #### 4.- ¿Qué son los valores eficaces de voltaje y corriente?
+#### 4.- ¿Qué son los valores eficaces de voltaje y corriente?
 * Valores de voltaje y corriente son funciones oscilatorias descrita en función de seno y el coseno representadas por su amplitud y frecuencia, dichos valores aumentan al calcular la potencia.
 ## 5. VIDEO
 
