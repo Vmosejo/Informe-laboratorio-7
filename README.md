@@ -8,7 +8,8 @@
    
    
 ## 2. MARCO TEÓRICO
-![Mapa conceptual](https://user-images.githubusercontent.com/93681159/152892498-9a6aa366-3cf8-4062-9f22-cc78912faea2.jpeg)
+
+![Mapa conceptual](https://user-images.githubusercontent.com/93681159/152893763-9052dac3-110a-4b0f-83c3-e4e663ca8201.jpeg)
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
