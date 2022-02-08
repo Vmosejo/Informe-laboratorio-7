@@ -2,11 +2,13 @@
 ## 1. OBJETIVOS
    1.1 GENERAL
    
-   
+   Analizar el comportamiento que tienen los capacitores e inductores dentro de un circuito eléctrico, mediante la aplicación de instrumentos de medición como el osciloscopio con el fin de comprender el funcionamiento de dichos componentes. 
    
    1.2 ESPECÍFICOS   
    
-   
+   * Aplicar los conocimientos adquiridos con el fin de identificar la composición y funcionamiento de los capacitores dentro de un circuito eléctrico.
+   * Comparar el comportamiento de los voltajes y corrientes mediante la variación de la frecuencia y los componentes (conductores e inductores).
+   * Definir las diferencias entre las mediciones mediante la elaboración de tablas de las mismas.
 ## 2. MARCO TEÓRICO
 
 ![Mapa conceptual](https://user-images.githubusercontent.com/93681159/152893763-9052dac3-110a-4b0f-83c3-e4e663ca8201.jpeg)
